@@ -1,24 +1,17 @@
-# tarea10
+# Tarea 10 - Aplicación de Bromas de Chuck Norris
 
-## Project setup
-```
-npm install
-```
+Este es un proyecto de Vue.js donde mostramos una lista de bromas icónicas de Chuck Norris usando componentes personalizados.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Descripción
 
-### Compiles and minifies for production
-```
-npm run build
-```
+La aplicación muestra una serie de tarjetas que contienen:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Una imagen de Chuck Norris.
+- Una broma graciosa de Chuck Norris.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Hacemos uso de:
+
+- **Vue.js** para la estructura de la aplicación.
+- **Componentes personalizados** para renderizar cada tarjeta de forma dinámica.
+- **Props** para pasar la información entre componentes.
+
