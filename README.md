@@ -14,4 +14,4 @@ Hacemos uso de:
 - **Vue.js** para la estructura de la aplicación.
 - **Componentes personalizados** para renderizar cada tarjeta de forma dinámica.
 - **Props** para pasar la información entre componentes.
-
+- **Diseño responsivo**, se adapta a cualquier tamaño de pantalla para verse bien tanto en computadoras como en dispositivos móviles.
